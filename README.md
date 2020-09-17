@@ -1,2 +1,2 @@
-# culturize-KMSKA
-Nginx server configuration files from CultURIze for KMSKA.
+# CultURIze-based PURLs for the KMSKA
+Nginx server configuration files from CultURIze.
